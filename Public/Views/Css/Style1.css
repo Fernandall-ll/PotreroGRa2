@@ -1,0 +1,12 @@
+h1,h2,p {
+    font-family: Arial, Helvetica, sans-serif;
+} 
+h1 {
+    font-size: 35px; color: rgb(255, 0, 0) ;
+}
+h2{
+    font-size: 30px; color: #d20770a5;
+}
+p{
+    color: brown;
+}
