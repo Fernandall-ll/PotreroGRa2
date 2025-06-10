@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+Great+Primer+SC&family=Outfit:wght@100..900&family=Rancho&family=Rye&display=swap');
+</style>
+);
+.rye-regular {
+  font-family: "Rye", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.outfit-<uniquifier> {
+  font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+.im-fell-great-primer-sc-regular {
+  font-family: "IM Fell Great Primer SC", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.rancho-regular {
+  font-family: "Rancho", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+h1 {
+  font-family:"Rye", serif;font-size:45px; color: rgb(255, 0, 0);
+}
+p {
+    font-family:"Outfit", sans-serif; font-size:35px; color: rgb(119, 30, 30)
+}
+h2 {
+  font-family:"IM Fell Great Primer SC", serif; font-size: 40px;color: rgb(239, 43, 239); 
+}
+li {
+  font-family:"Rancho", cursive; font-size: 38px; color: rgb(34, 34, 175);
+}
+body {
+    background-color:rgb(169, 193, 206) ;
+    margin: 20px;
+    padding: 20px;
+}
